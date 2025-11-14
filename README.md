@@ -42,8 +42,7 @@ The simulation results were conclusive:
 
 ## Outcome
 Gained hands on experience with control loop concepts, including feedback delays, processing bottlenecks, and the relationship between software controls and physical hardware
-
-
+![cert](CompletionCertificate.png)
 
 
 ### 4. Final Documentation
